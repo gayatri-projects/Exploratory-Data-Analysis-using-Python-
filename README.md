@@ -1,4 +1,4 @@
-Introductory-Data-Science-Projects
+Exploratory Data Analysis using Python 
 - (Taken from : FIT5145 : Intro to DS)
 
 - FIT5145 SSB 2020 Assignment 1.pdf : Assignment 1 Specification 
